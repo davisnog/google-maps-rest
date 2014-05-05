@@ -13,7 +13,7 @@ public class Principal {
 	 */
 	public static void main(String[] args) throws IOException {
 		
-		String endereco = "rua s„o josÈ, blumenau, santa catarina";
+		String endereco = "rua s√£o jos√©, blumenau, santa catarina";
 		
 		Geocode geo = new Geocode(endereco);
 		
